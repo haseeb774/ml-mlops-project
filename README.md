@@ -1,0 +1,1 @@
+## Created template.py to generate cookiecutter project structure
